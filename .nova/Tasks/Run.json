@@ -1,0 +1,9 @@
+{
+  "actions" : {
+    "run" : {
+      "enabled" : true,
+      "script" : "export NVM_DIR=\"$HOME\/.nvm\"\n[ -s \"\/opt\/homebrew\/opt\/nvm\/nvm.sh\" ] && . \"\/opt\/homebrew\/opt\/nvm\/nvm.sh\"\nnvm use --lts >\/dev\/null 2>&1 || true\n\nnpm run dev"
+    }
+  },
+  "openLogOnRun" : "start"
+}
