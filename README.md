@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-# My WebApp This is my first test project with GitHub and Nova by Panic.
+# My WebApp This is my first test project for web development with GitHub and Nova by Panic.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
